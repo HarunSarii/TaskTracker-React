@@ -1,6 +1,6 @@
 URL: https://harunsarii.github.io/TaskTracker-React/
 
-![task-tracker-new](https://user-images.githubusercontent.com/75949382/123622381-d2a66d80-d814-11eb-8f8a-c0c418841e16.gif)
+![task-tracker-2](https://user-images.githubusercontent.com/75949382/123622709-3d57a900-d815-11eb-9202-80cfb0e30d32.gif)
 
 # Getting Started with Create React App
 
